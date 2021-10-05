@@ -22,7 +22,7 @@ Current technologies available are mostly targeted towards meditation and not as
 
 # Planning Stages
 
-- [Community Characteristics](/master/Documentation/01_Community_Characteristics.pdf)
+- [Community Characteristics](documentation/01_Community_Characteristics.pdf)
 - [Technology Inventory](Documentation/02_Technology_Inventory.pdf)
 - [Business Case](Documentation/03_Business_Case.pdf)
 - [Stakeholder Analysis](Documentation/04_Stakeholder_Analysis.pdf)
