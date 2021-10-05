@@ -3,10 +3,9 @@
 
 ---
 
-**UN Sustainable Development Goal**
+# UN Sustainable Development Goal
 
-#3 - Good Health and Well-Being  
-Read more about it <a href="https://sdgs.un.org/goals/goal3">here</a>
+#3 - Good Health and Well-Being. Read more about it <a href="https://sdgs.un.org/goals/goal3">here</a>
 
 # Project Idea
 
