@@ -22,7 +22,7 @@ Current technologies available are mostly targeted towards meditation and not as
 
 # Hi - Fi Prototype Demos
 CBT (Cognitive Behavioral Therapy) Demo
-![](documentation/CBT_Hi_Fi_Prototype.gif)
+![](documentation/CBT_Hi_Fi_Prototype.gif)  
 Breath Therapy Demo
 ![](documentation/Breathe_Hi_Fi_Prototype.gif)
 
