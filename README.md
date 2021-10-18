@@ -20,6 +20,12 @@ Current technologies available are mostly targeted towards meditation and not as
 # Vlogs
 <a href="https://youtu.be/jd-inF7aJgM">Vlog #1 - Introduction</a>
 
+# Hi - Fi Prototype Demos
+CBT (Cognitive Behavioral Therapy) Demo
+![](documentation/CBT_Hi_Fi_Prototype.gif)
+Breath Therapy Demo
+![](documentation/Breathe_Hi_Fi_Prototype.gif)
+
 # Planning Stages
 
 - [Community Characteristics](documentation/01_Community_Characteristics.pdf)
@@ -33,3 +39,5 @@ Current technologies available are mostly targeted towards meditation and not as
 - [Use Case Diagram](documentation/Use_Case_Diagram.pdf)
 - [Class Diagram](documentation/Class_Diagram.pdf)
 - [Flow Chart](documentation/Flow_Chart.pdf)
+- [Lo-Fi Prototypes](documentation/Lo_Fi_Prototypes.pdf)
+- [Hi-Fi Prototypes](documentation/Hi_Fi_Prototypes.xd) *See Demos Above*
