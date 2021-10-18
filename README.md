@@ -26,3 +26,10 @@ Current technologies available are mostly targeted towards meditation and not as
 - [Technology Inventory](documentation/02_Technology_Inventory.pdf)
 - [Business Case](documentation/03_Business_Case.pdf)
 - [Stakeholder Analysis](documentation/04_Stakeholder_Analysis.pdf)
+
+# Project Management
+- [Drafting an Emerging Picture](Documentation/05_Drafting_an_Emerging_Picture.pdf)
+- [Project Scope](Documentation/06_Project_Scope.pdf)
+- [Use Case Diagram](Documentation/Use_Case_Diagram.pdf)
+- [Class Diagram](Documentation/Class_Diagram.pdf)
+- [Flow Chart](Documentation/Flow_Chart.pdf)
