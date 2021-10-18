@@ -28,8 +28,8 @@ Current technologies available are mostly targeted towards meditation and not as
 - [Stakeholder Analysis](documentation/04_Stakeholder_Analysis.pdf)
 
 # Project Management
-- [Drafting an Emerging Picture](Documentation/05_Drafting_an_Emerging_Picture.pdf)
-- [Project Scope](Documentation/06_Project_Scope.pdf)
-- [Use Case Diagram](Documentation/Use_Case_Diagram.pdf)
-- [Class Diagram](Documentation/Class_Diagram.pdf)
-- [Flow Chart](Documentation/Flow_Chart.pdf)
+- [Drafting an Emerging Picture](documentation/05_Drafting_an_Emerging_Picture.pdf)
+- [Project Scope](documentation/06_Project_Scope.pdf)
+- [Use Case Diagram](documentation/Use_Case_Diagram.pdf)
+- [Class Diagram](documentation/Class_Diagram.pdf)
+- [Flow Chart](documentation/Flow_Chart.pdf)
