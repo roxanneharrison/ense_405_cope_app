@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		637A6CBA2724C42200A59C87 /* cope_app WatchKit App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 637A6CB92724C42200A59C87 /* cope_app WatchKit App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		637A6CBA2724C42200A59C87 /* Cope.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = 637A6CB92724C42200A59C87 /* Cope.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		637A6CBF2724C42400A59C87 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 637A6CBE2724C42400A59C87 /* Assets.xcassets */; };
 		637A6CC52724C42400A59C87 /* cope_app WatchKit Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 637A6CC42724C42400A59C87 /* cope_app WatchKit Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		637A6CCA2724C42400A59C87 /* cope_appApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6CC92724C42400A59C87 /* cope_appApp.swift */; };
-		637A6CCC2724C42400A59C87 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6CCB2724C42400A59C87 /* ContentView.swift */; };
+		637A6CCA2724C42400A59C87 /* CopeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6CC92724C42400A59C87 /* CopeApp.swift */; };
+		637A6CCC2724C42400A59C87 /* delete.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6CCB2724C42400A59C87 /* delete.swift */; };
 		637A6CCE2724C42400A59C87 /* NotificationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6CCD2724C42400A59C87 /* NotificationController.swift */; };
 		637A6CD02724C42400A59C87 /* NotificationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6CCF2724C42400A59C87 /* NotificationView.swift */; };
 		637A6CD22724C42400A59C87 /* ComplicationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6CD12724C42400A59C87 /* ComplicationController.swift */; };
@@ -25,6 +25,13 @@
 		637A6D0D2724CC2800A59C87 /* tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6D0C2724CC2800A59C87 /* tutorial.swift */; };
 		637A6D0F2724D5F700A59C87 /* CopeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6D0E2724D5F700A59C87 /* CopeView.swift */; };
 		637A6D152724E8DF00A59C87 /* CBTView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6D142724E8DF00A59C87 /* CBTView.swift */; };
+		637A6D192726173D00A59C87 /* BreatheView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 637A6D182726173D00A59C87 /* BreatheView.swift */; };
+		6388774527261EFF0068C00B /* CBTList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6388774427261EFF0068C00B /* CBTList.swift */; };
+		63887747272639560068C00B /* soundtest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63887746272639560068C00B /* soundtest.swift */; };
+		6388774927263A6F0068C00B /* song.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6388774827263A6F0068C00B /* song.wav */; };
+		6388774B27263C5C0068C00B /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6388774A27263C5C0068C00B /* song.mp3 */; };
+		6388774C27263DD80068C00B /* song.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6388774A27263C5C0068C00B /* song.mp3 */; };
+		63A3654727277DA000D5C9CB /* ComplicationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63A3654627277DA000D5C9CB /* ComplicationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -76,7 +83,7 @@
 			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
 			dstSubfolderSpec = 16;
 			files = (
-				637A6CBA2724C42200A59C87 /* cope_app WatchKit App.app in Embed Watch Content */,
+				637A6CBA2724C42200A59C87 /* Cope.app in Embed Watch Content */,
 			);
 			name = "Embed Watch Content";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -84,12 +91,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		637A6CB52724C42200A59C87 /* cope_app.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cope_app.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		637A6CB92724C42200A59C87 /* cope_app WatchKit App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "cope_app WatchKit App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		637A6CB52724C42200A59C87 /* Cope.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cope.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		637A6CB92724C42200A59C87 /* Cope.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Cope.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		637A6CBE2724C42400A59C87 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		637A6CC42724C42400A59C87 /* cope_app WatchKit Extension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = "cope_app WatchKit Extension.appex"; sourceTree = BUILT_PRODUCTS_DIR; };
-		637A6CC92724C42400A59C87 /* cope_appApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cope_appApp.swift; sourceTree = "<group>"; };
-		637A6CCB2724C42400A59C87 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		637A6CC92724C42400A59C87 /* CopeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CopeApp.swift; sourceTree = "<group>"; };
+		637A6CCB2724C42400A59C87 /* delete.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = delete.swift; sourceTree = "<group>"; };
 		637A6CCD2724C42400A59C87 /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
 		637A6CCF2724C42400A59C87 /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 		637A6CD12724C42400A59C87 /* ComplicationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
@@ -107,6 +114,12 @@
 		637A6D0C2724CC2800A59C87 /* tutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tutorial.swift; sourceTree = "<group>"; };
 		637A6D0E2724D5F700A59C87 /* CopeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CopeView.swift; sourceTree = "<group>"; };
 		637A6D142724E8DF00A59C87 /* CBTView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CBTView.swift; sourceTree = "<group>"; };
+		637A6D182726173D00A59C87 /* BreatheView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BreatheView.swift; sourceTree = "<group>"; };
+		6388774427261EFF0068C00B /* CBTList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CBTList.swift; sourceTree = "<group>"; };
+		63887746272639560068C00B /* soundtest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = soundtest.swift; sourceTree = "<group>"; };
+		6388774827263A6F0068C00B /* song.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = song.wav; path = "cope_app WatchKit Extension/Testing/song.wav"; sourceTree = SOURCE_ROOT; };
+		6388774A27263C5C0068C00B /* song.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = song.mp3; sourceTree = "<group>"; };
+		63A3654627277DA000D5C9CB /* ComplicationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplicationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,7 +150,7 @@
 		637A6CAE2724C42200A59C87 = {
 			isa = PBXGroup;
 			children = (
-				637A6CBD2724C42200A59C87 /* cope_app WatchKit App */,
+				637A6CBD2724C42200A59C87 /* Cope */,
 				637A6CC82724C42400A59C87 /* cope_app WatchKit Extension */,
 				637A6CE12724C42500A59C87 /* cope_appTests */,
 				637A6CEB2724C42500A59C87 /* cope_appUITests */,
@@ -148,8 +161,8 @@
 		637A6CB62724C42200A59C87 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				637A6CB52724C42200A59C87 /* cope_app.app */,
-				637A6CB92724C42200A59C87 /* cope_app WatchKit App.app */,
+				637A6CB52724C42200A59C87 /* Cope.app */,
+				637A6CB92724C42200A59C87 /* Cope.app */,
 				637A6CC42724C42400A59C87 /* cope_app WatchKit Extension.appex */,
 				637A6CDE2724C42500A59C87 /* cope_appTests.xctest */,
 				637A6CE82724C42500A59C87 /* cope_appUITests.xctest */,
@@ -157,27 +170,28 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		637A6CBD2724C42200A59C87 /* cope_app WatchKit App */ = {
+		637A6CBD2724C42200A59C87 /* Cope */ = {
 			isa = PBXGroup;
 			children = (
 				637A6CBE2724C42400A59C87 /* Assets.xcassets */,
 			);
-			path = "cope_app WatchKit App";
+			path = Cope;
 			sourceTree = "<group>";
 		};
 		637A6CC82724C42400A59C87 /* cope_app WatchKit Extension */ = {
 			isa = PBXGroup;
 			children = (
-				637A6D042724C8D500A59C87 /* Model */,
+				63A3654527277D8A00D5C9CB /* Complication */,
+				637A6CC92724C42400A59C87 /* CopeApp.swift */,
 				637A6D032724C8C200A59C87 /* View */,
-				637A6CC92724C42400A59C87 /* cope_appApp.swift */,
-				637A6CCB2724C42400A59C87 /* ContentView.swift */,
+				637A6D042724C8D500A59C87 /* Model */,
 				637A6CCD2724C42400A59C87 /* NotificationController.swift */,
 				637A6CCF2724C42400A59C87 /* NotificationView.swift */,
 				637A6CD12724C42400A59C87 /* ComplicationController.swift */,
 				637A6CD32724C42500A59C87 /* Assets.xcassets */,
 				637A6CD82724C42500A59C87 /* Info.plist */,
 				637A6CD92724C42500A59C87 /* PushNotificationPayload.apns */,
+				63A3654127276FFF00D5C9CB /* Testing */,
 				637A6CD52724C42500A59C87 /* Preview Content */,
 			);
 			path = "cope_app WatchKit Extension";
@@ -212,7 +226,7 @@
 			isa = PBXGroup;
 			children = (
 				637A6D0E2724D5F700A59C87 /* CopeView.swift */,
-				637A6D062724C90900A59C87 /* BreathView */,
+				637A6D062724C90900A59C87 /* BreatheView */,
 				637A6D052724C90000A59C87 /* CBTView */,
 			);
 			path = View;
@@ -223,6 +237,7 @@
 			children = (
 				637A6D072724C97000A59C87 /* CopeData.xcdatamodeld */,
 				637A6D0A2724CA2900A59C87 /* PersistentController.swift */,
+				6388774427261EFF0068C00B /* CBTList.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -230,17 +245,37 @@
 		637A6D052724C90000A59C87 /* CBTView */ = {
 			isa = PBXGroup;
 			children = (
-				637A6D0C2724CC2800A59C87 /* tutorial.swift */,
 				637A6D142724E8DF00A59C87 /* CBTView.swift */,
 			);
 			path = CBTView;
 			sourceTree = "<group>";
 		};
-		637A6D062724C90900A59C87 /* BreathView */ = {
+		637A6D062724C90900A59C87 /* BreatheView */ = {
 			isa = PBXGroup;
 			children = (
+				637A6D182726173D00A59C87 /* BreatheView.swift */,
 			);
-			path = BreathView;
+			path = BreatheView;
+			sourceTree = "<group>";
+		};
+		63A3654127276FFF00D5C9CB /* Testing */ = {
+			isa = PBXGroup;
+			children = (
+				637A6CCB2724C42400A59C87 /* delete.swift */,
+				63887746272639560068C00B /* soundtest.swift */,
+				6388774A27263C5C0068C00B /* song.mp3 */,
+				6388774827263A6F0068C00B /* song.wav */,
+				637A6D0C2724CC2800A59C87 /* tutorial.swift */,
+			);
+			path = Testing;
+			sourceTree = "<group>";
+		};
+		63A3654527277D8A00D5C9CB /* Complication */ = {
+			isa = PBXGroup;
+			children = (
+				63A3654627277DA000D5C9CB /* ComplicationView.swift */,
+			);
+			path = Complication;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -260,7 +295,7 @@
 			);
 			name = cope_app;
 			productName = cope_app;
-			productReference = 637A6CB52724C42200A59C87 /* cope_app.app */;
+			productReference = 637A6CB52724C42200A59C87 /* Cope.app */;
 			productType = "com.apple.product-type.application.watchapp2-container";
 		};
 		637A6CB82724C42200A59C87 /* cope_app WatchKit App */ = {
@@ -277,7 +312,7 @@
 			);
 			name = "cope_app WatchKit App";
 			productName = "cope_app WatchKit App";
-			productReference = 637A6CB92724C42200A59C87 /* cope_app WatchKit App.app */;
+			productReference = 637A6CB92724C42200A59C87 /* Cope.app */;
 			productType = "com.apple.product-type.application.watchapp2";
 		};
 		637A6CC32724C42400A59C87 /* cope_app WatchKit Extension */ = {
@@ -404,6 +439,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6388774C27263DD80068C00B /* song.mp3 in Resources */,
 				637A6CD72724C42500A59C87 /* Preview Assets.xcassets in Resources */,
 				637A6CD42724C42500A59C87 /* Assets.xcassets in Resources */,
 			);
@@ -420,6 +456,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				6388774927263A6F0068C00B /* song.wav in Resources */,
+				6388774B27263C5C0068C00B /* song.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -432,12 +470,16 @@
 			files = (
 				637A6D0B2724CA2900A59C87 /* PersistentController.swift in Sources */,
 				637A6CCE2724C42400A59C87 /* NotificationController.swift in Sources */,
-				637A6CCC2724C42400A59C87 /* ContentView.swift in Sources */,
+				637A6CCC2724C42400A59C87 /* delete.swift in Sources */,
 				637A6CD22724C42400A59C87 /* ComplicationController.swift in Sources */,
+				637A6D192726173D00A59C87 /* BreatheView.swift in Sources */,
 				637A6D0D2724CC2800A59C87 /* tutorial.swift in Sources */,
+				63A3654727277DA000D5C9CB /* ComplicationView.swift in Sources */,
 				637A6D152724E8DF00A59C87 /* CBTView.swift in Sources */,
-				637A6CCA2724C42400A59C87 /* cope_appApp.swift in Sources */,
+				637A6CCA2724C42400A59C87 /* CopeApp.swift in Sources */,
 				637A6D0F2724D5F700A59C87 /* CopeView.swift in Sources */,
+				6388774527261EFF0068C00B /* CBTList.swift in Sources */,
+				63887747272639560068C00B /* soundtest.swift in Sources */,
 				637A6CD02724C42400A59C87 /* NotificationView.swift in Sources */,
 				637A6D092724C97000A59C87 /* CopeData.xcdatamodeld in Sources */,
 			);
@@ -607,11 +649,12 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"cope_app WatchKit Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "cope_app WatchKit Extension/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "cope_app WatchKit Extension";
-				INFOPLIST_KEY_CLKComplicationPrincipalClass = "$(PRODUCT_MODULE_NAME).ComplicationController";
+				INFOPLIST_KEY_CFBundleDisplayName = Cope;
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = cope_app_WatchKit_Extension.ComplicationController;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -638,11 +681,12 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"cope_app WatchKit Extension/Preview Content\"";
+				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "cope_app WatchKit Extension/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "cope_app WatchKit Extension";
-				INFOPLIST_KEY_CLKComplicationPrincipalClass = "$(PRODUCT_MODULE_NAME).ComplicationController";
+				INFOPLIST_KEY_CFBundleDisplayName = Cope;
+				INFOPLIST_KEY_CLKComplicationPrincipalClass = cope_app_WatchKit_Extension.ComplicationController;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -670,13 +714,13 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				GENERATE_INFOPLIST_FILE = YES;
 				IBSC_MODULE = cope_app_WatchKit_Extension;
-				INFOPLIST_KEY_CFBundleDisplayName = "cope_app WatchKit App";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "roxanneharrison.cope-app.watchkitapp";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Cope;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -694,13 +738,13 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				GENERATE_INFOPLIST_FILE = YES;
 				IBSC_MODULE = cope_app_WatchKit_Extension;
-				INFOPLIST_KEY_CFBundleDisplayName = "cope_app WatchKit App";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "roxanneharrison.cope-app.watchkitapp";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Cope;
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -718,7 +762,7 @@
 				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "roxanneharrison.cope-app";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Cope;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
@@ -731,7 +775,7 @@
 				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "roxanneharrison.cope-app";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Cope;
 				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
@@ -743,6 +787,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				GENERATE_INFOPLIST_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -768,6 +813,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				GENERATE_INFOPLIST_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -791,6 +837,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				GENERATE_INFOPLIST_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -814,6 +861,7 @@
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = CLN7BA3D2F;
 				GENERATE_INFOPLIST_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

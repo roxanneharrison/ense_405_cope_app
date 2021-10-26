@@ -8,11 +8,11 @@
 import SwiftUI
 
 @main
-struct cope_appApp: App {
+struct CopeApp: App {
     @SceneBuilder var body: some Scene {
         WindowGroup {
             NavigationView {
-                ContentView()
+                CopeView()
             }
             // Get the environment key to be able to get the data from the persistent controller
             .environment(\.managedObjectContext, PersistentController.shared.container.viewContext)

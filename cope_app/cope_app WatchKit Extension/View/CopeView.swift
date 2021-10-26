@@ -7,6 +7,9 @@
 
 import SwiftUI
 
+// User selected color to be updated in future MVP
+var user_color = Color.blue
+
 struct CopeView: View {
     
     var body: some View {
@@ -18,48 +21,27 @@ struct CopeView: View {
                 Text("CBT")
                     .font(.title)
             })
+            .foregroundColor(Color.white)
+            .buttonStyle(.borderless)
             .frame(maxWidth: .infinity)
             .frame(height: 70)
-            .background(Color.blue)
+            .background(user_color)
             .cornerRadius(20)
-        
+
         NavigationLink(
-            destination: CBTView(),
+            destination: BreatheView(),
             label: {
                 Text("Breathe")
                     .font(.title)
             })
+            .foregroundColor(Color.white)
+            .buttonStyle(.borderless)
             .frame(maxWidth: .infinity)
             .frame(height: 70)
-            .background(Color.blue)
+            .background(user_color)
             .cornerRadius(20)
+
         }
-//            GeometryReader{
-//                geometry in
-//            VStack {
-//
-//                Button(action: /*@START_MENU_TOKEN@*/{}/*@END_MENU_TOKEN@*/) {
-//                    Text("CBT")
-//                        .font(.title)
-//                }
-//                .buttonStyle(.plain)
-//                .frame(maxWidth: .infinity)
-//                .frame(height: (geometry.size.height/2))
-//                .background(Color.blue)
-//                .cornerRadius(3)
-//
-//            Button(action: /*@START_MENU_TOKEN@*/{}/*@END_MENU_TOKEN@*/) {
-//                Text("Breathe")
-//                    .font(.title)
-//            }
-//            .buttonStyle(.plain)
-//            .frame(maxWidth: .infinity)
-//            .frame(height: (geometry.size.height/2))
-//            .background(Color.blue)
-//            .cornerRadius(3)
-//            }
-//
-//            }
     }
 }
 struct CopeView_Previews: PreviewProvider {
