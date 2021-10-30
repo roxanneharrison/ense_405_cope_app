@@ -26,12 +26,8 @@ CBT (Cognitive Behavioral Therapy) Demo
 Breath Therapy Demo  
 ![](documentation/Breathe_Hi_Fi_Prototype.gif)
 
-# Planning Stages
-
-- [Community Characteristics](documentation/01_Community_Characteristics.pdf)
-- [Technology Inventory](documentation/02_Technology_Inventory.pdf)
-- [Business Case](documentation/03_Business_Case.pdf)
-- [Stakeholder Analysis](documentation/04_Stakeholder_Analysis.pdf)
+# Sprint Updates
+- [Project Status (Nov 2)](Documentation/07_Project_Status.pdf)
 
 # Project Management
 - [Drafting an Emerging Picture](documentation/05_Drafting_an_Emerging_Picture.pdf)
@@ -41,3 +37,11 @@ Breath Therapy Demo
 - [Flow Chart](documentation/Flow_Chart.pdf)
 - [Lo-Fi Prototypes](documentation/Lo_Fi_Prototypes.pdf)
 - [Hi-Fi Prototypes](documentation/Hi_Fi_Prototypes.xd) *See Demos Above*
+
+# Planning Stages
+
+- [Community Characteristics](documentation/01_Community_Characteristics.pdf)
+- [Technology Inventory](documentation/02_Technology_Inventory.pdf)
+- [Business Case](documentation/03_Business_Case.pdf)
+- [Stakeholder Analysis](documentation/04_Stakeholder_Analysis.pdf)
+
