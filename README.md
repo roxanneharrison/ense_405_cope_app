@@ -20,14 +20,14 @@ Current technologies available are mostly targeted towards meditation and not as
 # Vlogs
 <a href="https://youtu.be/jd-inF7aJgM">Vlog #1 - Introduction</a>
 
+# Sprint Updates
+- [Project Status (Nov 2)](Documentation/07_Project_Status.pdf)
+
 # Hi - Fi Prototype Demos
 CBT (Cognitive Behavioral Therapy) Demo  
 ![](documentation/CBT_Hi_Fi_Prototype.gif)  
 Breath Therapy Demo  
 ![](documentation/Breathe_Hi_Fi_Prototype.gif)
-
-# Sprint Updates
-- [Project Status (Nov 2)](Documentation/07_Project_Status.pdf)
 
 # Project Management
 - [Drafting an Emerging Picture](documentation/05_Drafting_an_Emerging_Picture.pdf)
