@@ -43,5 +43,8 @@ Breath Therapy Demo
 - [Community Characteristics](documentation/01_Community_Characteristics.pdf)
 - [Technology Inventory](documentation/02_Technology_Inventory.pdf)
 - [Business Case](documentation/03_Business_Case.pdf)
-- [Stakeholder Analysis](documentation/04_Stakeholder_Analysis.pdf)
+- [Stakeholder Analysis](documentation/04_Stakeholder_Analysis.pdf)  
 
+
+# Attributes  
+<div>Icons made by <a href="https://www.flaticon.com/authors/victoruler" title="Victoruler">Victoruler</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
