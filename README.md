@@ -9,13 +9,13 @@
 
 # Project Idea
 
-The _Cope_ app idea is an Apple Watch mini-app that provides coping techniques for people with anxiety disorders. There may be an iPhone aspect to this but the main focus is on using technology to overcome panic attacks with breathing exercises and cognitive behavioural therapy to reshape the sufferer's thought patterns. 
+The _Cope_ app idea is an Apple Watch mini-app that provides coping techniques for people with anxiety disorders. There may be an iPhone aspect to this but the main focus is on using technology to overcome panic attacks with breathing exercises and cognitive behavioural therapy (mantras) to reshape the sufferer's thought patterns. 
 
 # Project Background / Business Opportunity
 
 Over 18% of adults and 30% of adolescents will experience some form of anxiety disorder in their lifetime with these individuals being twice as likely to suffer from substance abuse (American Addiction Centers). By providing resources and technology solutions to this community, mental health and quality of life can be improved substantially.   
 
-Current technologies available are mostly targeted towards meditation and not as a coping mechanism for this specific audience. By providing a quickly accessible application, people suffering from panic attacks or anxiety can be guided through calming breathing exercises as well as CBT materials. These two methods together will improve health and well-being and can help to strengthen the prevention of substance abuse as a coping mechanism (UN Goal 3.5).   
+Current technologies available are mostly targeted towards meditation and not as a coping mechanism for this specific audience. By providing a quickly accessible application, people suffering from panic attacks or anxiety can be guided through calming breathing exercises as well as mantras. These two methods together will improve health and well-being and can help to strengthen the prevention of substance abuse as a coping mechanism (UN Goal 3.5).   
  
 # Vlogs
 <a href="https://youtu.be/jd-inF7aJgM">Vlog #1 - Introduction</a>
