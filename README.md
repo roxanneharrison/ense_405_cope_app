@@ -21,7 +21,8 @@ Current technologies available are mostly targeted towards meditation and not as
 <a href="https://youtu.be/jd-inF7aJgM">Vlog #1 - Introduction</a>
 
 # Sprint Updates
-- [Project Status (Nov 2)](documentation/07_Project_Status.pdf)
+- [Project Status (Nov 2)](documentation/07_Project_Status_MVP1.pdf)
+- [Project Status (Nov 16)](documentation/08_Project_Status_MVP2.pdf)
 
 # Hi - Fi Prototype Demos
 CBT (Cognitive Behavioral Therapy) Demo  
