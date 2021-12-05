@@ -43,7 +43,7 @@
 ## Settings
 1. Select the Settings mini-app
 2. Scroll through and change settings appropriately  
-![](Instructions/settings.png)
+![](Instructions/settings.png)  
 Accent Color: Changes display color of in-app buttons  
 Mantra Check-In: Number of mantras displayed before check-in  
 Breathe Check-In: Number of breaths displayed before check-in  
