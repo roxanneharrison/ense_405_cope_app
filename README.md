@@ -2,7 +2,8 @@
 <p align="center">Roxanne Harrison - ENSE 405 Fall 2021</p>
 
 ---
-
+# Find the Installation Guide [here](cope_app_source_code/README.md)
+---
 # UN Sustainable Development Goal
 
 <a href="https://sdgs.un.org/goals/goal3">#3 - Good Health and Well-Being</a>
