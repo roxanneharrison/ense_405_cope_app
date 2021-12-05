@@ -20,6 +20,7 @@ Current technologies available are mostly targeted towards meditation and not as
  
 # Vlogs
 <a href="https://youtu.be/jd-inF7aJgM">Vlog #1 - Introduction</a>
+<a href = "https://youtu.be/MK9xSFq4Xs0">Final Commercial</a>
 
 # Sprint Updates
 - [Project Status (Nov 2)](documentation/07_Project_Status_MVP1.pdf)
