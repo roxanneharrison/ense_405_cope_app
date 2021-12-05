@@ -19,7 +19,7 @@ Over 18% of adults and 30% of adolescents will experience some form of anxiety d
 Current technologies available are mostly targeted towards meditation and not as a coping mechanism for this specific audience. By providing a quickly accessible application, people suffering from panic attacks or anxiety can be guided through calming breathing exercises as well as mantras. These two methods together will improve health and well-being and can help to strengthen the prevention of substance abuse as a coping mechanism (UN Goal 3.5).   
  
 # Vlogs
-<a href="https://youtu.be/jd-inF7aJgM">Vlog #1 - Introduction</a>
+<a href="https://youtu.be/jd-inF7aJgM">Vlog #1 - Introduction</a>  
 <a href = "https://youtu.be/MK9xSFq4Xs0">Final Commercial</a>
 
 # Sprint Updates
