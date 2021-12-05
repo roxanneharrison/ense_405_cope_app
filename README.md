@@ -23,6 +23,7 @@ Current technologies available are mostly targeted towards meditation and not as
 # Sprint Updates
 - [Project Status (Nov 2)](documentation/07_Project_Status_MVP1.pdf)
 - [Project Status (Nov 16)](documentation/08_Project_Status_MVP2.pdf)
+- [Project Status (Dec 6)](documentation/09_Project_Status_MVP3.pdf)
 - [Class Topics](documentation/Class_Topics.pdf)
 
 # Hi - Fi Prototype Demos
