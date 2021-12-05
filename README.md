@@ -2,7 +2,7 @@
 <p align="center">Roxanne Harrison - ENSE 405 Fall 2021</p>
 
 ---
-# Find the Instruction Manual[here](cope_app_source_code/README.md)
+# Find the Instruction Manual [here](cope_app_source_code/README.md)
 ---
 # UN Sustainable Development Goal
 
