@@ -37,12 +37,12 @@
 1. Select the Breathe mini-app
 2. Cycle through breathing exercises  
 ![](Instructions/breathe.png)
-3. At check-in decide if you'd like to continue
+3. At check-in decide if you'd like to continue  
 ![](Instructions/checkin2.png)
 4. Exit any time using the watch crown (side button)
 ## Settings
 1. Select the Settings mini-app
-2. Scroll through and change settings appropriately
+2. Scroll through and change settings appropriately  
 ![](Instructions/settings.png)
 Accent Color: Changes display color of in-app buttons  
 Mantra Check-In: Number of mantras displayed before check-in  
